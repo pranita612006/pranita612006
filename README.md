@@ -1,6 +1,5 @@
 ## Hi there 👋
 ## I'm Pranita Pawar  
-
 🎓 Computer Engineering Student 
 📍 Pune, India  
 
@@ -19,22 +18,10 @@ Outside tech, I’m also a **mandala artist** 🎨.
 
 ### 🛠️ Skills
 - **Languages:** Java, C++, Python, SQL  
-- **Mobile:** Android Studio, XML, Material Design  
-- **Web & UI:** UI/UX, Data Visualization   
+- **Mobile:** Android Studio, XML 
+- **Web & UI:** UI/UX, HTML, CSS, JS
 - **IoT:** Arduino, Sensors, Bluetooth  
 - **Tools:** Git/GitHub, VS Code, Linux (basic)  
-
-### 📂 Projects
-- **Super Sonic Glasses (IoT + Android)**  
-  Assistive smart glasses converting speech to real-time text for the deaf community  
-- **Speed Breaker Early Detection System**  
-  Arduino-based safety system using ultrasonic sensors  
-- **Company Introduction Android App**  
-  Clean UI app using RecyclerView, CardView & Material Design  
-- **College Inquiry Chatbot**  
-  AI chatbot built using Watsonx Assistant  
-- **Crop Recommendation System**  
-  ML-based system using IBM Watsonx AutoAI  
 
 ### 🏆 Achievements
 - SIH 2025 Internal Hackathon Winner  
