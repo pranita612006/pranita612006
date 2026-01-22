@@ -1,40 +1,24 @@
-## Hi there 👋
-## I'm Pranita Pawar  
-🎓 Computer Engineering Student 
+## Hi there 👋 I'm Pranita Pawar  
+🎓 Computer Engineering Student | Android & Web Developer  
 📍 Pune, India  
 
-### 👩‍💻 About Me
-Detail-oriented Android/Web Developer with strong fundamentals in Java, UI/UX, and IoT systems.  
-I enjoy building **real-world, problem-solving applications** and contributing to **open source**.  
-Outside tech, I’m also a **mandala artist** 🎨.
+**About Me**  
+Detail-oriented developer skilled in Java, UI/UX & IoT.  I enjoy building real-world projects and contributing to open source.  
+Outside of Tech I'm Mandala artist 🎨  
 
-### 🔭 Currently Working On
-- Android & Web Development projects  
-- Open Source contributions    
+**Currently**  
+- Working on Android & Web projects  
+- Learning Django, Backend & DSA (C++)  
 
-### 🌱 Currently Learning
-- Django & Backend Development  
-- Advanced DSA (C++)   
+**Skills**  
+Java | C++ | Python | SQL | Android | HTML | CSS | JS | IoT | Git/GitHub | VS Code | Linux  
 
-### 🛠️ Skills
-- **Languages:** Java, C++, Python, SQL  
-- **Mobile:** Android Studio, XML 
-- **Web & UI:** UI/UX, HTML, CSS, JS
-- **IoT:** Arduino, Sensors, Bluetooth  
-- **Tools:** Git/GitHub, VS Code, Linux (basic)  
-
-### 🏆 Achievements
+**Achievements**  
 - SIH 2025 Internal Hackathon Winner  
-- Research Paper Published: *Super Sonic Glasses* (ISSN: 2395-566X)  
-- Mentored peers & contributed to team projects  
+- Research Paper: *Super Sonic Glasses* (ISSN: 2395-566X)  
 
-### 👯 Looking to Collaborate On
-- Open Source projects  
-- Android / Web applications   
+**Connect**  
+📧 ppawar612006@gmail.com  
+💼 LinkedIn | 🐙 @pranita612006  
 
-### 📫 Contact Me
-- 📧 Email: ppawar612006@gmail.com  
-- 💼 LinkedIn: [Pranita Pawar](https://linkedin.com/in/pranita-pawar-bb0571312)  
-- 🐙 GitHub: [@pranita612006](https://github.com/pranita612006)  
-
-⚡ *I believe in learning by building and improving every day.*
+⚡ Learning by building, every day.
